@@ -10,6 +10,7 @@ namespace AliMsnTools.Console
     {
         static void Main(string[] args)
         {
+			Console.Write("a");
         }
     }
 }
