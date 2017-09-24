@@ -1,0 +1,2 @@
+C:\Users\Jolon\Documents\AliMsnTools\AliMsnTools.Console\AliMsnTools.Console\obj\Debug\AliMsnTools.Console.csprojResolveAssemblyReference.cache
+C:\Users\Jolon\Documents\AliMsnTools\AliMsnTools.Console\AliMsnTools.Console\obj\Debug\AliMsnTools.Console.csproj.CoreCompileInputs.cache
